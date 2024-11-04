@@ -3,5 +3,8 @@
 * I'm a good student, I got the president's award for educational excellence
 
 ## Term 1
-
+### Etch-A-Sketch
+drawing application 
 ## Term 2
+### Calculator
+![running app]()
