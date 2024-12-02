@@ -9,7 +9,7 @@ drawing application
 ### Calculator
 ![running app](https://github.com/John-Langbert/programmingportfolio/blob/main/images/calculator.png?raw=true)
 ### SpaceGame
-*A basic game working with collision detection and upgrading elements
+A basic game working with collision detection and upgrading elements
 ![running game](https://github.com/John-Langbert/programmingportfolio/blob/main/images/SpaceGame.png?raw=true) 
 
 [Source Code](https://github.com/John-Langbert/programmingportfolio/tree/main/src/term2/SpaceGame)
