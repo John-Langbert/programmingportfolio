@@ -8,6 +8,8 @@
 ## Term 1
 ### Etch-A-Sketch
 Basic drawing application 
+
+
 ![running app](https://github.com/John-Langbert/programmingportfolio/blob/main/images/EtchASketcher.png?raw=true)
 ## Term 2
 ### Calculator
