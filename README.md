@@ -3,7 +3,7 @@
 * I'm a good student, I got the president's award for educational excellence
 * My email is 9660573@graniteschools.org
 * I am certified for computer programming 1
-* [Programming Certification](https://github.com/John-Langbert/programmingportfolio/blob/main/images/CompProgram1Cert?raw=true)
+* [Programming Certification](https://github.com/John-Langbert/programmingportfolio/blob/main/images/CompProgram1Cert.pdf?raw=true)
 
 ## Term 1
 ### Etch-A-Sketch
