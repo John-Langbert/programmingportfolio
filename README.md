@@ -2,7 +2,7 @@
 * I am a first time student of programming, I have never done this before. My freinds sometimes do programming so I thought it would be fun. 
 * I'm a good student, I got the president's award for educational excellence
 * My email is 9660573@graniteschools.org
-* I am certified for computer programming 1 and graphic design 1
+* I am certified for computer programming 1
 
 ## Term 1
 ### Etch-A-Sketch
