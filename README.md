@@ -6,6 +6,9 @@
 * [Programming Certification](https://github.com/John-Langbert/programmingportfolio/blob/main/images/CompProgram1Cert.pdf?raw=true)
 
 ## Term 1
+### Grade Scale
+Takes user imput of a number and converts it to a letter grade
+![running app](https://github.com/John-Langbert/programmingportfolio/blob/main/images/GradeScale.png?raw=true)
 ### Etch-A-Sketch
 Basic drawing application 
 
