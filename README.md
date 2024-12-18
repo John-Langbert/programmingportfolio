@@ -9,17 +9,21 @@
 ### Grade Scale
 Takes user imput of a number and converts it to a letter grade
 ![running app](https://github.com/John-Langbert/programmingportfolio/blob/main/images/GradeScale.png?raw=true)
+[Source Code](https://github.com/John-Langbert/programmingportfolio/tree/main/src/term1/grade_scale)
 ### Collision detection
 A basic thing to demonstrate collision detection
 ![running app](https://github.com/John-Langbert/programmingportfolio/blob/main/images/ColDet.png?raw=true)
+[Source Code](https://github.com/John-Langbert/programmingportfolio/tree/main/src/term1/colDet)
 ### Etch-A-Sketch
 Basic drawing application 
 
 
 ![running app](https://github.com/John-Langbert/programmingportfolio/blob/main/images/EtchASketcher.png?raw=true)
+[Source Code](https://github.com/John-Langbert/programmingportfolio/tree/main/src/term1/EtchASketch)
 ## Term 2
 ### Calculator
 ![running app](https://github.com/John-Langbert/programmingportfolio/blob/main/images/calculator.png?raw=true)
+[Source Code](https://github.com/John-Langbert/programmingportfolio/tree/main/src/term1/calculator)
 ### SpaceGame
 A basic game working with collision detection and upgrading elements
 ![running game](https://github.com/John-Langbert/programmingportfolio/blob/main/images/SpaceGame.png?raw=true) 
